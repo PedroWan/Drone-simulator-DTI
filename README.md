@@ -1,55 +1,50 @@
-# 🚀 Guia de Execução – Drone Simulator
+#🚀 Drone Simulator – Guia de Execução
 
-O projeto é empacotado como um arquivo JAR executável.
-A única dependência é o Java Development Kit (JDK) 25+.
+O projeto é distribuído como um arquivo JAR executável.
+
+A única dependência é o Java Development Kit (JDK 25+).
 
 # ✅ Pré-requisito
 
-JDK 25 ou superior instalado no sistema.
+- Instale o JDK 25 ou superior no seu sistema:
+🔗 Baixar JDK
 
-https://www.oracle.com/br/java/technologies/downloads
+- Verifique a instalação no terminal:
 
-Para verificar, execute no terminal:
+ -java -version
 
-java -version
+# 📦 Obtenção do Projeto
 
-# Proximo Passo
+- Clique no botão verde "Code" no topo do repositório.
 
-Clique no botão verde "Código": que se encontra acima da lista de ficheiros.
+  - Selecione "Download ZIP".
 
-Selecione "Baixar ZIP": nas opções que aparecem.
-
-Descompacte o arquivo ZIP: na sua máquina local.
+- Descompacte o arquivo na sua máquina local.
 
 # ▶️ Como Executar
 
-Abra o Terminal / Prompt de Comando / PowerShell.
+Abra o Terminal / Prompt de Comando / PowerShell e navegue até o diretório do arquivo drone-simulador.jar.
 
-Navegue até o diretório onde está o arquivo drone-simulador.jar.
+Exemplo no Windows:
+- C:\Users\User> cd Downloads
+  - C:\Users\User\Downloads> cd drone-simulator-dti
+   - C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
 
-# Exemplo no Windows:
+📖 Menu de Comandos
+Nº	Opção	Descrição
 
-C:\Users\User> cd Downloads
+1	Criar pedido	Cria um novo pedido, definindo coordenadas (x, y), peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
 
-C:\Users\User\Downloads> cd drone-simulator-dti
+2	Listar pedidos	Exibe todos os pedidos com status: PENDENTE, ALOCADO ou ENTREGUE.
 
-C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
+3	Listar drones e alocações	Mostra todos os drones, incluindo capacidade, alcance e status (IDLE, EM_VOO).
 
-# 📖 Menu de Comandos
-Nº	Nome da Opção	Descrição
+4	Gerar plano de alocação (heurística) ⚡	Distribui pedidos entre drones de forma otimizada (combinando rotas).
 
-1)	Criar pedido	Cria um novo pedido (pacote). Defina coordenadas (x) (y), peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
+5	Rodar simulação técnica (relatório) 📊	Executa simulação completa e gera relatório (entregas, tempo médio, bateria, recargas, drone mais eficiente).
 
-2)	Listar pedidos	Exibe todos os pedidos com seus status: PENDENTE, ALOCADO ou ENTREGUE.
+6	Rodar simulação dinâmica (mapa ASCII) 🎮	Mostra simulação em tempo real com mapa ASCII atualizado e alertas de entregas.
 
-3)	Listar drones e alocações	Mostra todos os drones, com capacidade, alcance e status (IDLE, EM_VOO etc.).
+7	Rodar testes unitários (Java puro)	Executa TesteUnitario.java para validar regras de negócio e funções geométricas.
 
-4) Gerar plano de alocação (heurística)	⚡ Comando crucial! Executa a lógica de otimização para distribuir pedidos entre os drones.
-
-5) Rodar simulação técnica (relatório)	📊 Comando crucial! Executa a simulação completa e gera relatório final (entregas, tempo médio, consumo de bateria, recargas e drone mais eficiente).
-
-6)	Rodar simulação dinâmica (mapa ASCII)	🎮 Simulação em tempo real no console, com mapa ASCII atualizando a posição dos drones e alertas de status.
-
-7)	Rodar testes unitários (Java puro)	Executa a classe TesteUnitario.java para validar regras de negócio e funções geométricas.
-
-8)	Sair	Encerra a aplicação.
+8	Sair	Encerra a aplicação.
