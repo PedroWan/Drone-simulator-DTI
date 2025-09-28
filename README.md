@@ -33,18 +33,18 @@ Exemplo no Windows:
 # 📖 Menu de Comandos
 Nº	Opção	Descrição
 
-1	Criar pedido	Cria um novo pedido, definindo coordenadas (x, y), peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
+1)	Criar pedido	Cria um novo pedido, definindo coordenadas (x, y), peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
 
-2	Listar pedidos	Exibe todos os pedidos com status: PENDENTE, ALOCADO ou ENTREGUE.
+2)	Listar pedidos	Exibe todos os pedidos com status: PENDENTE, ALOCADO ou ENTREGUE.
 
-3	Listar drones e alocações	Mostra todos os drones, incluindo capacidade, alcance e status (IDLE, EM_VOO).
+3)	Listar drones e alocações	Mostra todos os drones, incluindo capacidade, alcance e status (IDLE, EM_VOO).
 
-4	Gerar plano de alocação (heurística) ⚡	Distribui pedidos entre drones de forma otimizada (combinando rotas).
+4)	Gerar plano de alocação (heurística) ⚡	Distribui pedidos entre drones de forma otimizada (combinando rotas).
 
-5	Rodar simulação técnica (relatório) 📊	Executa simulação completa e gera relatório (entregas, tempo médio, bateria, recargas, drone mais eficiente).
+5)	Rodar simulação técnica (relatório) 📊	Executa simulação completa e gera relatório (entregas, tempo médio, bateria, recargas, drone mais eficiente).
 
-6	Rodar simulação dinâmica (mapa ASCII) 🎮	Mostra simulação em tempo real com mapa ASCII atualizado e alertas de entregas.
+6)	Rodar simulação dinâmica (mapa ASCII) 🎮	Mostra simulação em tempo real com mapa ASCII atualizado e alertas de entregas.
 
-7	Rodar testes unitários (Java puro)	Executa TesteUnitario.java para validar regras de negócio e funções geométricas.
+7)	Rodar testes unitários (Java puro)	Executa TesteUnitario.java para validar regras de negócio e funções geométricas.
 
-8	Sair	Encerra a aplicação.
+8)	Sair	Encerra a aplicação.
