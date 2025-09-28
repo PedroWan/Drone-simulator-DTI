@@ -13,6 +13,8 @@ Para verificar, execute no terminal:
 
 java -version
 
+# Proximo Passo
+
 Clique no botão verde "Código": que se encontra acima da lista de ficheiros.
 
 Selecione "Baixar ZIP": nas opções que aparecem.
