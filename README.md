@@ -17,7 +17,7 @@ A única dependência é o Java Development Kit (JDK 25+).
 
 - Clique no botão verde "Code" no topo do repositório.
 
-  - Selecione "Download ZIP".
+- Selecione "Download ZIP".
 
 - Descompacte o arquivo na sua máquina local.
 
@@ -27,8 +27,8 @@ Abra o Terminal / Prompt de Comando / PowerShell e navegue até o diretório do 
 
 Exemplo no Windows:
 - C:\Users\User> cd Downloads
-  - C:\Users\User\Downloads> cd drone-simulator-dti
-   - C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
+- C:\Users\User\Downloads> cd drone-simulator-dti
+- C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
 
 📖 Menu de Comandos
 Nº	Opção	Descrição
