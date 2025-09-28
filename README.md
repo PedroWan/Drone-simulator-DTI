@@ -38,7 +38,7 @@ C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
 # 📖 Menu de Comandos
 Nº	Nome da Opção	Descrição
 
-1)	Criar pedido	Cria um novo pedido (pacote). Defina coordenadas, peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
+1)	Criar pedido	Cria um novo pedido (pacote). Defina coordenadas (x) (y), peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
 
 2)	Listar pedidos	Exibe todos os pedidos com seus status: PENDENTE, ALOCADO ou ENTREGUE.
 
