@@ -21,7 +21,7 @@ Selecione "Baixar ZIP": nas opções que aparecem.
 
 Descompacte o arquivo ZIP: na sua máquina local.
 
-#▶️ Como Executar
+# ▶️ Como Executar
 
 Abra o Terminal / Prompt de Comando / PowerShell.
 
