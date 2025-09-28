@@ -25,18 +25,18 @@ C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
 # 📖 Menu de Comandos
 Nº	Nome da Opção	Descrição
 
-1	Criar pedido	Cria um novo pedido (pacote). Defina coordenadas, peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
+1)	Criar pedido	Cria um novo pedido (pacote). Defina coordenadas, peso (kg) e prioridade (ALTA, MÉDIA, BAIXA).
 
-2	Listar pedidos	Exibe todos os pedidos com seus status: PENDENTE, ALOCADO ou ENTREGUE.
+2)	Listar pedidos	Exibe todos os pedidos com seus status: PENDENTE, ALOCADO ou ENTREGUE.
 
-3	Listar drones e alocações	Mostra todos os drones, com capacidade, alcance e status (IDLE, EM_VOO etc.).
+3)	Listar drones e alocações	Mostra todos os drones, com capacidade, alcance e status (IDLE, EM_VOO etc.).
 
-4	Gerar plano de alocação (heurística)	⚡ Comando crucial! Executa a lógica de otimização para distribuir pedidos entre os drones.
+4) Gerar plano de alocação (heurística)	⚡ Comando crucial! Executa a lógica de otimização para distribuir pedidos entre os drones.
 
-5	Rodar simulação técnica (relatório)	📊 Comando crucial! Executa a simulação completa e gera relatório final (entregas, tempo médio, consumo de bateria, recargas e drone mais eficiente).
+5) Rodar simulação técnica (relatório)	📊 Comando crucial! Executa a simulação completa e gera relatório final (entregas, tempo médio, consumo de bateria, recargas e drone mais eficiente).
 
-6	Rodar simulação dinâmica (mapa ASCII)	🎮 Simulação em tempo real no console, com mapa ASCII atualizando a posição dos drones e alertas de status.
+6)	Rodar simulação dinâmica (mapa ASCII)	🎮 Simulação em tempo real no console, com mapa ASCII atualizando a posição dos drones e alertas de status.
 
-7	Rodar testes unitários (Java puro)	Executa a classe TesteUnitario.java para validar regras de negócio e funções geométricas.
+7)	Rodar testes unitários (Java puro)	Executa a classe TesteUnitario.java para validar regras de negócio e funções geométricas.
 
-8	Sair	Encerra a aplicação.
+8)	Sair	Encerra a aplicação.
