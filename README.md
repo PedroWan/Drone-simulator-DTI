@@ -8,7 +8,7 @@ A única dependência é o Java Development Kit (JDK 25+).
 
 - Instale o JDK 25 ou superior no seu sistema:
 🔗 Baixar JDK
-
+https://www.oracle.com/br/java/technologies/downloads/#java25
 - Verifique a instalação no terminal:
 
  -java -version
