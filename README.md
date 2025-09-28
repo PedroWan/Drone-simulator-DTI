@@ -13,6 +13,12 @@ Para verificar, execute no terminal:
 
 java -version
 
+Clique no botão verde "Código": que se encontra acima da lista de ficheiros.
+
+Selecione "Baixar ZIP": nas opções que aparecem.
+
+Descompacte o arquivo ZIP: na sua máquina local.
+
 #▶️ Como Executar
 
 Abra o Terminal / Prompt de Comando / PowerShell.
