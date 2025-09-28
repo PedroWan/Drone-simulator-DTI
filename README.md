@@ -19,7 +19,9 @@ Navegue até o diretório onde está o arquivo drone-simulador.jar.
 # Exemplo no Windows:
 
 C:\Users\User> cd Downloads
+
 C:\Users\User\Downloads> cd drone-simulator-dti
+
 C:\Users\User\Downloads\drone-simulator-dti> java -jar drone-simulador.jar
 
 # 📖 Menu de Comandos
