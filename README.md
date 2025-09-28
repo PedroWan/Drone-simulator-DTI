@@ -5,9 +5,9 @@ A única dependência é o Java Development Kit (JDK) 17+.
 
 # ✅ Pré-requisito
 
-JDK 17 ou superior instalado no sistema.
+JDK 24 ou superior instalado no sistema.
 
-https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html
+https://www.oracle.com/br/java/technologies/downloads
 
 Para verificar, execute no terminal:
 
