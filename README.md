@@ -1,11 +1,11 @@
 # 🚀 Guia de Execução – Drone Simulator
 
 O projeto é empacotado como um arquivo JAR executável.
-A única dependência é o Java Development Kit (JDK) 24+.
+A única dependência é o Java Development Kit (JDK) 25+.
 
 # ✅ Pré-requisito
 
-JDK 24 ou superior instalado no sistema.
+JDK 25 ou superior instalado no sistema.
 
 https://www.oracle.com/br/java/technologies/downloads
 
